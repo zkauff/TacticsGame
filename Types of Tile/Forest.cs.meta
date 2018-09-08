@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 64302e8ae0a45ff418508f902a1735a6
+timeCreated: 1531068231
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - unitTransform: {instanceID: 0}
+  - audioSource: {instanceID: 0}
+  - hurtSoundEffect: {instanceID: 0}
+  - treePrefab: {fileID: 1553370094166332, guid: 8ac41e56b56831043bfc47fdebc45532,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

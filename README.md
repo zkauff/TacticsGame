@@ -1,4 +1,4 @@
-# BeginnerTacticsGame
+# TacticsGame
 This is the c# code for a Unity project that myself and a friend have been working on for a few months now.
 In the style of fire emblem, this game will follow a hero and those who join him in his quest to find the being who killed his family. It is our first foray into video game design, so everything is kind of rough at this point. 
 The basic skeleton is far from complete, and once that is complete it will be awhile until the meat is added on. Don't discount the game yet though!! 
